@@ -1,5 +1,5 @@
 # Marketcord Legal
 
 Please choose a legal document to access:
-- [Terms of Service](/terms)
-- [Privacy](/privacy)
+- [Terms of Service](https://github.com/marketcord/legal/terms)
+- [Privacy](https://github.com/marketcord/privacy)
